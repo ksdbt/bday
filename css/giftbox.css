@@ -30,6 +30,16 @@ div#beach {
 
 .container{
   position: relative;
+  background-size: 1700px;
+  background-repeat: no-repeat;
+}
+
+img#bdayimg{
+  background-size: cover; 
+  background-size: 1700px;
+  background-repeat: repeat;
+  width: 100%;
+  height:100%
 }
 
 
